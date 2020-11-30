@@ -5,6 +5,12 @@ header{
     color: darkred;
     text-align: center;
 }
+p{
+    color: brown;
+}
+p.Café{
+    font-weight: bold;
+}
 img.carta{
     height: 100px;
 }
@@ -28,4 +34,7 @@ p.contacto{
     text-align: right;
     position: relative;
     top: 150px;
+}
+span.información{
+    font-weight: bold;
 }
