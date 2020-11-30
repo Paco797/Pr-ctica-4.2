@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+header{
+    color: darkred;
+    text-align: center;
+}
+img.carta{
+    height: 100px;
+}
+img.taza{
+    height: 100px;
+    
+}
+img.contacto{
+    height: 100px;
+}
+p.carta{
+    text-align: left;
+
+}
+p.taza{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+p.contacto{
+    text-align: right;
+    position: relative;
+    top: 150px;
+}
